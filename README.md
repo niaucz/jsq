@@ -4,7 +4,7 @@
 ### 实现样式和输入绑定
 
 ## 截图
-
+![截图](https://raw.githubusercontent.com/niaucz/jsq/main/2021-08-09.png)
 
 ## Project setup
 ```
